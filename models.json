@@ -1,0 +1,13 @@
+[
+  { "id": "og",           "name": "OG",           "description": "The original. The standard." },
+  { "id": "doctor",       "name": "DOCTOR",       "description": "Bedside manner, robot edition.", "cover": "https://placehold.co/600x600/0a0a12/9333ea?text=DOCTOR" },
+  { "id": "wide",         "name": "WIDE",         "description": "Built different." },
+  { "id": "cube",         "name": "CUBE",         "description": "No fluff. Just Divi." },
+  { "id": "diamond",      "name": "DIAMOND",      "description": "Cut to shine." },
+  { "id": "hexagon",      "name": "HEXAGON",      "description": "Six sides of Divi." },
+  { "id": "egg",          "name": "EGG",          "description": "Smooth, round, unbothered." },
+  { "id": "retro",        "name": "RETRO",        "description": "Old-school glow. Scanlines and soul." },
+  { "id": "small",        "name": "MICRO",        "description": "Tiny but mighty." },
+  { "id": "tall",         "name": "TALL",         "description": "Stands out in the room." },
+  { "id": "long-antenna", "name": "LONG ANTENNA", "description": "Reception's never been better.", "cover": "https://placehold.co/600x600/0a0a12/9333ea?text=LONG+ANTENNA" }
+]
